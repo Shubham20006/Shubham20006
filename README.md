@@ -1,4 +1,4 @@
-### Hey 👋, I'm Shubham Chaudhari! :
+### Hey 👋, I'm Shubham Chaudhari !  :
 🔭 I’m currently working with HTML, CSS, JavaScript, ReactJs.<br>🌱 I’m currently learning Front End Development at BridgeLabz Solutions Pvt. Ltd. .<br>👨🏻‍💻 Most of my projects are available on GitHub.<br>👾 Fun fact: Equal is Not Always Equal in JavaScript.<br>📫 How to reach me: shubhamchaudhari1506@gmail.com
 
 
